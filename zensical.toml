@@ -21,8 +21,20 @@ nav = [
     { "1.2 · O computador é bem literal" = "modulo1/aula02-computador-literal.md" },
     { "1.3 · Decisões e repetições" = "modulo1/aula03-decisoes-e-repeticoes.md" },
   ] },
+  { "Módulo 2 · HTML" = [
+    "modulo2/index.md",
+    { "2.1 · Minha primeira página" = "modulo2/aula01-primeira-pagina.md" },
+    { "2.2 · Títulos e parágrafos" = "modulo2/aula02-titulos-e-paragrafos.md" },
+    { "2.3 · Listas" = "modulo2/aula03-listas.md" },
+    { "2.4 · Imagens e links" = "modulo2/aula04-imagens-e-links.md" },
+    { "2.5 · O esqueleto completo" = "modulo2/aula05-esqueleto-completo.md" },
+    { "2.6 · Tabelas" = "modulo2/aula06-tabelas.md" },
+    { "2.7 · Revisão e Sobre mim" = "modulo2/aula07-revisao.md" },
+  ] },
   { "Glossário" = "glossario.md" },
 ]
+
+extra_css = ["stylesheets/extra.css"]
 
 [project.theme]
 language = "pt-BR"

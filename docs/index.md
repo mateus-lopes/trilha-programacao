@@ -22,7 +22,7 @@ A trilha é dividida em **módulos**, e cada módulo tem várias **lições** cu
 |---|---|
 | [**0 · Preparando o cantinho**](modulo0/index.md) | Deixar o computador pronto e entender como estudar por aqui |
 | [**1 · Pensando como programadora**](modulo1/index.md) | O que é programar, **sem nenhum código** ainda |
-| **2 · HTML** · *em breve* | Criar páginas: o esqueleto de todo site |
+| [**2 · HTML**](modulo2/index.md) | Criar páginas: o esqueleto de todo site |
 | **3 · CSS** · *em breve* | Deixar as páginas bonitas: a maquiagem do site 💄 |
 | **4 · Página no ar** · *em breve* | Publicar a sua página na internet |
 | **5 · JavaScript** · *em breve* | Dar vida às páginas: botões, contas e decisões |

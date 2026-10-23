@@ -1,0 +1,7 @@
+/* Quadro que mostra o resultado de um exemplo, como ele aparece no navegador */
+.resultado {
+  width: 100%;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  background: #fff;
+}
