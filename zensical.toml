@@ -1,12 +1,12 @@
 [project]
-site_url = "https://mateus-lopes.github.io/primeiros-passos/"
+site_url = "https://mateus-lopes.github.io/trilha-programacao/"
 site_name = "Primeiros Passos no Código"
 site_description = "Uma trilha leve para aprender programação do zero, com HTML, CSS e JavaScript."
 site_author = "Mateus Lopes"
 copyright = "Feito com carinho 🌱"
 
-repo_url = "https://github.com/mateus-lopes/primeiros-passos"
-repo_name = "mateus-lopes/primeiros-passos"
+repo_url = "https://github.com/mateus-lopes/trilha-programacao"
+repo_name = "mateus-lopes/trilha-programacao"
 
 nav = [
   { "Início" = "index.md" },
