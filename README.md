@@ -2,7 +2,7 @@
 
 Uma trilha leve para aprender programação do zero: primeiro pensando como programadora, depois HTML, CSS e JavaScript.
 
-📖 **Acesse a trilha:** https://mateus-lopes.github.io/primeiros-passos/
+📖 **Acesse a trilha:** https://mateus-lopes.github.io/trilha-programacao/
 
 ## Sobre este projeto
 
