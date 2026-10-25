@@ -40,6 +40,11 @@ hide:
   padding: 0.25rem 0.7rem; border-radius: 99px;
   background: var(--md-code-bg-color);
 }
+.md-typeset .tp-hero .tp-dedicatoria {
+  max-width: 34rem; margin: 1.6rem auto 0; padding: 0.8rem 1rem;
+  border-radius: var(--tp-raio); border: 1px dashed var(--md-default-fg-color--lightest);
+  font-size: 0.8rem; color: var(--md-default-fg-color--light);
+}
 .md-typeset .tp-landing h2 {
   text-align: center; margin: 2.6rem 0 1.2rem; font-weight: 700;
 }
@@ -96,6 +101,7 @@ hide:
     <span>🆓 Gratuito</span>
     <span>🧡 Sem pressa</span>
   </div>
+  <p class="tp-dedicatoria">💌 Montei esta trilha para a minha esposa, que está começando do zero na programação. Por isso ela é escrita no feminino, num ritmo mais leve e com projetos pensados no dia a dia dela. Mas serve para qualquer pessoa que queira dar os primeiros passos.</p>
 </section>
 
 ## O que você vai criar
